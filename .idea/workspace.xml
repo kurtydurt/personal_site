@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="08dec481-3c87-4a3c-8845-4f63cc6d7c60" name="Changes" comment="Fixin path yet again">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="08dec481-3c87-4a3c-8845-4f63cc6d7c60" name="Changes" comment="Fixin path yet again" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -67,7 +65,7 @@
       <workItem from="1692798177274" duration="432000" />
       <workItem from="1692897327474" duration="725000" />
       <workItem from="1692899018355" duration="15000" />
-      <workItem from="1692899347640" duration="1552000" />
+      <workItem from="1692899347640" duration="2077000" />
     </task>
     <task id="LOCAL-00001" summary="Fixin path again">
       <created>1692900170858</created>
@@ -90,7 +88,14 @@
       <option name="project" value="LOCAL" />
       <updated>1692900820263</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Fixin path yet again">
+      <created>1692901140137</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1692901140137</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
